@@ -1,0 +1,16 @@
+{"time":"2024-11-05T20:10:22.276287204Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-05T20:10:22.277418795Z","level":"INFO","msg":"created symlink","path":"/content/drive/MyDrive/Colab Notebooks/projecta/PAD/PAD/distill/wandb/run-20241105_201022-iwp5dmu6/logs/debug-core.log"}
+{"time":"2024-11-05T20:10:22.383253694Z","level":"INFO","msg":"created new stream","id":"iwp5dmu6"}
+{"time":"2024-11-05T20:10:22.383899326Z","level":"INFO","msg":"stream: started","id":"iwp5dmu6"}
+{"time":"2024-11-05T20:10:22.383950179Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"iwp5dmu6"}}
+{"time":"2024-11-05T20:10:22.38398732Z","level":"INFO","msg":"handler: started","stream_id":{"value":"iwp5dmu6"}}
+{"time":"2024-11-05T20:10:22.384030312Z","level":"INFO","msg":"sender: started","stream_id":"iwp5dmu6"}
+{"time":"2024-11-05T20:10:22.604798845Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-05T20:10:52.858311544Z","level":"INFO","msg":"stream: closing","id":"iwp5dmu6"}
+{"time":"2024-11-05T20:10:52.858381107Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-05T20:10:52.860707738Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-05T20:10:53.273742276Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-05T20:10:53.409237447Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"iwp5dmu6"}}
+{"time":"2024-11-05T20:10:53.409336197Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"iwp5dmu6"}}
+{"time":"2024-11-05T20:10:53.409378089Z","level":"INFO","msg":"sender: closed","stream_id":"iwp5dmu6"}
+{"time":"2024-11-05T20:10:53.410525487Z","level":"INFO","msg":"stream: closed","id":"iwp5dmu6"}

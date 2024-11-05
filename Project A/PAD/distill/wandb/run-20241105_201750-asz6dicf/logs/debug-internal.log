@@ -1,0 +1,16 @@
+{"time":"2024-11-05T20:17:50.934593478Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-05T20:17:50.935910302Z","level":"INFO","msg":"created symlink","path":"/content/drive/MyDrive/Colab Notebooks/projecta/PAD/PAD/distill/wandb/run-20241105_201750-asz6dicf/logs/debug-core.log"}
+{"time":"2024-11-05T20:17:51.04181939Z","level":"INFO","msg":"created new stream","id":"asz6dicf"}
+{"time":"2024-11-05T20:17:51.042314231Z","level":"INFO","msg":"stream: started","id":"asz6dicf"}
+{"time":"2024-11-05T20:17:51.042384474Z","level":"INFO","msg":"handler: started","stream_id":{"value":"asz6dicf"}}
+{"time":"2024-11-05T20:17:51.042355034Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"asz6dicf"}}
+{"time":"2024-11-05T20:17:51.042439888Z","level":"INFO","msg":"sender: started","stream_id":"asz6dicf"}
+{"time":"2024-11-05T20:17:51.229971557Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-05T20:20:18.503983877Z","level":"INFO","msg":"stream: closing","id":"asz6dicf"}
+{"time":"2024-11-05T20:20:18.504021506Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-05T20:20:18.506220859Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-05T20:20:19.955348548Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-05T20:20:20.063661893Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"asz6dicf"}}
+{"time":"2024-11-05T20:20:20.063744225Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"asz6dicf"}}
+{"time":"2024-11-05T20:20:20.063781116Z","level":"INFO","msg":"sender: closed","stream_id":"asz6dicf"}
+{"time":"2024-11-05T20:20:20.06516544Z","level":"INFO","msg":"stream: closed","id":"asz6dicf"}

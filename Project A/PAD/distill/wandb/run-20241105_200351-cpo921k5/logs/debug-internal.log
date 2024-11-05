@@ -1,0 +1,16 @@
+{"time":"2024-11-05T20:03:51.915803095Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-05T20:03:51.91669638Z","level":"INFO","msg":"created symlink","path":"/content/drive/MyDrive/Colab Notebooks/projecta/PAD/PAD/distill/wandb/run-20241105_200351-cpo921k5/logs/debug-core.log"}
+{"time":"2024-11-05T20:03:52.021686614Z","level":"INFO","msg":"created new stream","id":"cpo921k5"}
+{"time":"2024-11-05T20:03:52.022402449Z","level":"INFO","msg":"stream: started","id":"cpo921k5"}
+{"time":"2024-11-05T20:03:52.022468021Z","level":"INFO","msg":"sender: started","stream_id":"cpo921k5"}
+{"time":"2024-11-05T20:03:52.022427447Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"cpo921k5"}}
+{"time":"2024-11-05T20:03:52.022503955Z","level":"INFO","msg":"handler: started","stream_id":{"value":"cpo921k5"}}
+{"time":"2024-11-05T20:03:52.208610297Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-05T20:04:22.518477997Z","level":"INFO","msg":"stream: closing","id":"cpo921k5"}
+{"time":"2024-11-05T20:04:22.518526633Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-05T20:04:22.520929408Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-05T20:04:22.983323338Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-05T20:04:23.088688452Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"cpo921k5"}}
+{"time":"2024-11-05T20:04:23.088796362Z","level":"INFO","msg":"sender: closed","stream_id":"cpo921k5"}
+{"time":"2024-11-05T20:04:23.088785913Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"cpo921k5"}}
+{"time":"2024-11-05T20:04:23.09005498Z","level":"INFO","msg":"stream: closed","id":"cpo921k5"}

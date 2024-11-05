@@ -1,0 +1,47 @@
+{
+  "os":  "Linux-6.1.85+-x86_64-with-glibc2.35",
+  "python":  "3.10.12",
+  "startedAt":  "2024-11-05T20:03:51.896793Z",
+  "args":  [
+    "--cfg",
+    "../configs/mnist_IPC50.yaml"
+  ],
+  "program":  "/content/drive/MyDrive/Colab Notebooks/projecta/PAD/PAD/distill/PAD_depth.py",
+  "codePath":  "distill/PAD_depth.py",
+  "git":  {
+    "remote":  "https://github.com/NUS-HPC-AI-Lab/PAD.git",
+    "commit":  "c7d36c7736dd58a9ae4b1634ad5fcb3ad4cd061b"
+  },
+  "email":  "lzknus@gmail.com",
+  "root":  "/content/drive/MyDrive/Colab Notebooks/projecta/PAD/PAD/distill",
+  "host":  "aa6396058f4b",
+  "username":  "root",
+  "executable":  "/usr/bin/python3",
+  "codePathLocal":  "PAD_depth.py",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "gpu":  "NVIDIA A100-SXM4-40GB",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "253055008768",
+      "used":  "36213690368"
+    }
+  },
+  "memory":  {
+    "total":  "89632796672"
+  },
+  "cpu":  {
+    "count":  6,
+    "countLogical":  12
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA A100-SXM4-40GB",
+      "memoryTotal":  "42949672960",
+      "cudaCores":  6912,
+      "architecture":  "Ampere"
+    }
+  ],
+  "cudaVersion":  "12.2"
+}

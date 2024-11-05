@@ -1,0 +1,15 @@
+{"time":"2024-11-05T19:35:51.069599424Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-05T19:35:51.083597929Z","level":"INFO","msg":"created symlink","path":"/content/drive/MyDrive/Colab Notebooks/projecta/PAD/PAD/distill/wandb/offline-run-20241105_193520-jmqvazp7/logs/debug-core.log"}
+{"time":"2024-11-05T19:35:51.194394703Z","level":"INFO","msg":"created new stream","id":"jmqvazp7"}
+{"time":"2024-11-05T19:35:51.194958107Z","level":"INFO","msg":"stream: started","id":"jmqvazp7"}
+{"time":"2024-11-05T19:35:51.195013181Z","level":"INFO","msg":"sender: started","stream_id":"jmqvazp7"}
+{"time":"2024-11-05T19:35:51.195000498Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"jmqvazp7"}}
+{"time":"2024-11-05T19:35:51.19507315Z","level":"INFO","msg":"handler: started","stream_id":{"value":"jmqvazp7"}}
+{"time":"2024-11-05T19:35:51.213625944Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-05T19:38:14.340832108Z","level":"INFO","msg":"stream: closing","id":"jmqvazp7"}
+{"time":"2024-11-05T19:38:14.340948891Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-05T19:38:14.341780835Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-05T19:38:14.34225095Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"jmqvazp7"}}
+{"time":"2024-11-05T19:38:14.342451415Z","level":"INFO","msg":"sender: closed","stream_id":"jmqvazp7"}
+{"time":"2024-11-05T19:38:14.342443078Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"jmqvazp7"}}
+{"time":"2024-11-05T19:38:14.34368345Z","level":"INFO","msg":"stream: closed","id":"jmqvazp7"}

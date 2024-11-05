@@ -1,0 +1,16 @@
+{"time":"2024-11-05T20:30:22.368300737Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-05T20:30:22.369316044Z","level":"INFO","msg":"created symlink","path":"/content/drive/MyDrive/Colab Notebooks/projecta/PAD/PAD/distill/wandb/run-20241105_203022-wwb2613j/logs/debug-core.log"}
+{"time":"2024-11-05T20:30:22.475246877Z","level":"INFO","msg":"created new stream","id":"wwb2613j"}
+{"time":"2024-11-05T20:30:22.475760951Z","level":"INFO","msg":"stream: started","id":"wwb2613j"}
+{"time":"2024-11-05T20:30:22.475877364Z","level":"INFO","msg":"sender: started","stream_id":"wwb2613j"}
+{"time":"2024-11-05T20:30:22.475837165Z","level":"INFO","msg":"handler: started","stream_id":{"value":"wwb2613j"}}
+{"time":"2024-11-05T20:30:22.4758143Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"wwb2613j"}}
+{"time":"2024-11-05T20:30:22.692769328Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-05T20:31:58.93466767Z","level":"INFO","msg":"stream: closing","id":"wwb2613j"}
+{"time":"2024-11-05T20:31:58.934711911Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-05T20:31:58.937046795Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-05T20:32:00.795649556Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-05T20:32:01.067812651Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"wwb2613j"}}
+{"time":"2024-11-05T20:32:01.067876909Z","level":"INFO","msg":"sender: closed","stream_id":"wwb2613j"}
+{"time":"2024-11-05T20:32:01.067868658Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"wwb2613j"}}
+{"time":"2024-11-05T20:32:01.06927798Z","level":"INFO","msg":"stream: closed","id":"wwb2613j"}

@@ -1,0 +1,15 @@
+{"time":"2024-11-05T19:10:02.09636144Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-05T19:10:02.097375031Z","level":"INFO","msg":"created symlink","path":"/content/drive/MyDrive/Colab Notebooks/projecta/PAD/PAD/distill/wandb/offline-run-20241105_190907-7ahw5llc/logs/debug-core.log"}
+{"time":"2024-11-05T19:10:02.205285757Z","level":"INFO","msg":"created new stream","id":"7ahw5llc"}
+{"time":"2024-11-05T19:10:02.205906217Z","level":"INFO","msg":"stream: started","id":"7ahw5llc"}
+{"time":"2024-11-05T19:10:02.205994235Z","level":"INFO","msg":"sender: started","stream_id":"7ahw5llc"}
+{"time":"2024-11-05T19:10:02.205976762Z","level":"INFO","msg":"handler: started","stream_id":{"value":"7ahw5llc"}}
+{"time":"2024-11-05T19:10:02.205961377Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"7ahw5llc"}}
+{"time":"2024-11-05T19:10:02.226087675Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-05T19:10:31.651026073Z","level":"INFO","msg":"stream: closing","id":"7ahw5llc"}
+{"time":"2024-11-05T19:10:31.651153054Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-05T19:10:31.652050742Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-05T19:10:31.652877287Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"7ahw5llc"}}
+{"time":"2024-11-05T19:10:31.652980349Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"7ahw5llc"}}
+{"time":"2024-11-05T19:10:31.653003854Z","level":"INFO","msg":"sender: closed","stream_id":"7ahw5llc"}
+{"time":"2024-11-05T19:10:31.654059176Z","level":"INFO","msg":"stream: closed","id":"7ahw5llc"}

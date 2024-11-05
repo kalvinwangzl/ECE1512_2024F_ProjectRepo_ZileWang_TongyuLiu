@@ -1,0 +1,16 @@
+{"time":"2024-11-05T20:00:09.17389579Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-05T20:00:09.175142159Z","level":"INFO","msg":"created symlink","path":"/content/drive/MyDrive/Colab Notebooks/projecta/PAD/PAD/distill/wandb/run-20241105_200009-qrzm20bf/logs/debug-core.log"}
+{"time":"2024-11-05T20:00:09.281601118Z","level":"INFO","msg":"created new stream","id":"qrzm20bf"}
+{"time":"2024-11-05T20:00:09.282254193Z","level":"INFO","msg":"stream: started","id":"qrzm20bf"}
+{"time":"2024-11-05T20:00:09.282355288Z","level":"INFO","msg":"sender: started","stream_id":"qrzm20bf"}
+{"time":"2024-11-05T20:00:09.282354547Z","level":"INFO","msg":"handler: started","stream_id":{"value":"qrzm20bf"}}
+{"time":"2024-11-05T20:00:09.282315526Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"qrzm20bf"}}
+{"time":"2024-11-05T20:00:10.35720182Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-05T20:00:40.132578924Z","level":"INFO","msg":"stream: closing","id":"qrzm20bf"}
+{"time":"2024-11-05T20:00:40.132676026Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-05T20:00:40.135562448Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-05T20:00:40.538471049Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-05T20:00:40.754780163Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"qrzm20bf"}}
+{"time":"2024-11-05T20:00:40.754880066Z","level":"INFO","msg":"sender: closed","stream_id":"qrzm20bf"}
+{"time":"2024-11-05T20:00:40.754871494Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"qrzm20bf"}}
+{"time":"2024-11-05T20:00:40.756133981Z","level":"INFO","msg":"stream: closed","id":"qrzm20bf"}

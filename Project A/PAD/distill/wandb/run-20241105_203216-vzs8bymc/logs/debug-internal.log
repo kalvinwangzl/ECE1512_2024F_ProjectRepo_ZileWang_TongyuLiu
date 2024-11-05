@@ -1,0 +1,17 @@
+{"time":"2024-11-05T20:32:16.645667983Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-05T20:32:16.646809644Z","level":"INFO","msg":"created symlink","path":"/content/drive/MyDrive/Colab Notebooks/projecta/PAD/PAD/distill/wandb/run-20241105_203216-vzs8bymc/logs/debug-core.log"}
+{"time":"2024-11-05T20:32:16.752904924Z","level":"INFO","msg":"created new stream","id":"vzs8bymc"}
+{"time":"2024-11-05T20:32:16.75338123Z","level":"INFO","msg":"stream: started","id":"vzs8bymc"}
+{"time":"2024-11-05T20:32:16.753420612Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"vzs8bymc"}}
+{"time":"2024-11-05T20:32:16.753450559Z","level":"INFO","msg":"handler: started","stream_id":{"value":"vzs8bymc"}}
+{"time":"2024-11-05T20:32:16.75349486Z","level":"INFO","msg":"sender: started","stream_id":"vzs8bymc"}
+{"time":"2024-11-05T20:32:16.952305394Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-05T20:35:18.976168406Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-05T20:35:18.976948178Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-05T20:35:19.553089743Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-05T20:35:19.862949341Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-11-05T20:35:20.883363036Z","level":"INFO","msg":"stream: closing","id":"vzs8bymc"}
+{"time":"2024-11-05T20:35:20.883536894Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"vzs8bymc"}}
+{"time":"2024-11-05T20:35:20.883571199Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"vzs8bymc"}}
+{"time":"2024-11-05T20:35:20.883590914Z","level":"INFO","msg":"sender: closed","stream_id":"vzs8bymc"}
+{"time":"2024-11-05T20:35:20.884577661Z","level":"INFO","msg":"stream: closed","id":"vzs8bymc"}
