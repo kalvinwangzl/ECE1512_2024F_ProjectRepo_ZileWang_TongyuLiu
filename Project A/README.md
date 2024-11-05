@@ -22,5 +22,5 @@ To utilize PAD models, we need to first train a Deepcore model that will be used
 Further instructions on how to train and evaluate EDC model are contained in the README.md in the folder.
 
 # Reference
-[DataDAM](https://github.com/DataDistillation/DataDAM), [DeepCore](https://github.com/patrickzh/deepcore), [Prioritize Alignment in Dataset Distillation](https://github.com/NUS-HPC-AI-Lab/PAD), [Efficient-Dataset-Condensation
+[DataDAM](https://github.com/DataDistillation/DataDAM), [DeepCore: A Comprehensive Library for Coreset Selection in Deep Learning](https://github.com/patrickzh/deepcore), [Prioritize Alignment in Dataset Distillation](https://github.com/NUS-HPC-AI-Lab/PAD), [Efficient-Dataset-Condensation
 ](https://github.com/snu-mllab/Efficient-Dataset-Condensation)
