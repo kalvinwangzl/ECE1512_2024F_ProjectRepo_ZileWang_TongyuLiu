@@ -16,3 +16,6 @@ To utilize PAD models, we need to first train a Deepcore model that will be used
 
 ### EDC
 Further instructions on how to train and evaluate EDC model are contained in the README.md in the folder.
+
+# Reference
+[DataDAM](https://github.com/DataDistillation/DataDAM)
